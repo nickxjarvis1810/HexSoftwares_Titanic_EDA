@@ -7,7 +7,7 @@ Project Description
 
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to identify patterns affecting passenger survival.
 
-🛠️ Tools Used
+Tools Used
 
 * Python
 * Pandas
